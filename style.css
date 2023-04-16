@@ -1,0 +1,25 @@
+header, footer {
+    background-color: #f1f1f1;
+    padding: 10px 0px;
+    text-align: center;
+  }
+  
+  
+  main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    
+  }
+  
+ 
+  .product {
+    margin: 5 rem;
+    padding: 5rem;
+    background-color: #f2f2f2;
+    width: 400px;
+    text-align: center;
+  }
+
